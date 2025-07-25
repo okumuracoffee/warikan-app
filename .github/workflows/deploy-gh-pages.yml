@@ -4,6 +4,7 @@ name: Deploy static content to Pages
 on:
   # デフォルトブランチを対象としたプッシュ時にで実行されます
   push:
+    # あとで戻す
     # branches: ["main"]
 
     # Actions タブから手動でワークフローを実行できるようにします
